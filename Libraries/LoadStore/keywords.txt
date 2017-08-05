@@ -1,0 +1,10 @@
+LoadStore	KEYWORD1
+clearLoad	KEYWORD2
+clearAll	KEYWORD2
+setLoad	KEYWORD2
+setFromByte	KEYWORD2
+getByte	KEYWORD2
+getLoadRaw	KEYWORD2
+getLoadState	KEYWORD2
+getLoadDelayPreset	KEYWORD2
+hasNoneLoaded	KEYWORD2
